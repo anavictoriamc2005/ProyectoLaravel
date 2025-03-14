@@ -1,4 +1,0 @@
-Hola Victor , cuando inicies para comprobar mi trabajo metete primero en este enlace  http://127.0.0.1:8000/welcome , porque es en donde comienza mi trabajo.
-Cualquier cosa no dudes en decirmelo.
-Un saludo.
-Ana Victoria :)
